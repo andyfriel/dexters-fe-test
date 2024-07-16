@@ -99,5 +99,11 @@ const removeTodo = () => {
       }
     } 
   }
+
+  input[type="text"] {
+    border-radius: 8px;
+    padding: 5px;
+    width: 300px;
+  }
 }
 </style>
